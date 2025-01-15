@@ -26,9 +26,9 @@ Welcome! Glad to see you
 
 #### Editors
 
-[![](https://img.shields.io/badge/IntelliJ?style=for-the-badge&logo=intellij&logoColor=blue)]()
-[![](https://img.shields.io/badge/Visual_Studio?style=for-the-badge&logo=visualstudio&logoColor=blue)]()
-[![](https://img.shields.io/badge/VSCode?style=for-the-badge&logo=vscode&logoColor=blue)]()
+[![](https://img.shields.io/badge/IntelliJ-black?style=for-the-badge&logo=intellij&logoColor=blue)]()
+[![](https://img.shields.io/badge/VisualStudio-black?style=for-the-badge&logo=visualstudio&logoColor=blue)]()
+[![](https://img.shields.io/badge/VSCode-black?style=for-the-badge&logo=vscode&logoColor=blue)]()
 
 
 
