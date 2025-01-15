@@ -1,4 +1,4 @@
-Welcome! Glad to see you
+<h1 align="center"> Welcome! Glad to see you </h1>
 
 ## Technical Proficiencies
 #### Languages - Proficient
