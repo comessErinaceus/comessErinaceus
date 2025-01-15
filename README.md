@@ -1,4 +1,6 @@
-<h1 align="center"> Welcome! Glad to see you </h1>
+<h1 align="center"> Welcome!</h1>
+
+ <p align="center"> Glad to see you. See below for my list of technical proficiencies. Projects will be made public soon. </p>
 
 ## Technical Proficiencies
 #### Languages - Proficient
