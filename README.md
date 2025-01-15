@@ -12,18 +12,27 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=red)]()
 [![](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=0398fc)]()
 
+#### Language - dataformats
+[![](https://img.shields.io/badge/XML?style=for-the-badge&logo=xmlt&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Json-grey?style=for-the-badge&logo=json&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Yaml?style=for-the-badge&logo=yaml&logoColor=light-blue)]()
+
 #### Cloud
 [![](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=azure&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/AzureDevops-grey?style=for-the-badge&logo=azure&logoColor=light-blue)]()
 
 #### Database
 [![](https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
+
 
 #### Frameworks
 [![](https://img.shields.io/badge/SpringBoot-grey?style=for-the-badge&logo=springboot&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/Spring-grey?style=for-the-badge&logo=spring&logoColor=blue)]()
 [![](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/Asp.Net-grey?style=for-the-badge&logo=.net&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=light-blue)]()
+
+
 
 #### OS
 [![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
@@ -46,6 +55,11 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
 [![](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=black)]()
+
+[![](https://img.shields.io/badge/Tomcat-grey?style=for-the-badge&logo=ApacheTomcat&logoColor=light-blue)]()
+
+#### Game Development programming
+[![](https://img.shields.io/badge/Godot-gdscript?style=for-the-badge&logo=godotengine&logoColor=light-blue)]()
 
 
 
