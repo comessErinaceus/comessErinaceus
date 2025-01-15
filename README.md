@@ -10,7 +10,9 @@ C++, Java, Python, SQL, Bash, HTML, CSS
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=03bafc)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=03bafc)]()
 [![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python3&logoColor=03fc4e)]()
-[![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Java&logoColor=0398fc)]()
+[![](https://img.shields.io/badge/Java-black?style=for-the-badge&logo=java&logoColor=0398fc)]()
+[![](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=bash&logoColor=0398fc)]()
+[![](https://img.shields.io/badge/PowerShell-black?style=for-the-badge&logo=powershell&logoColor=0398fc)]()
 
 #### Frameworks
 
