@@ -4,8 +4,9 @@ Welcome! Glad to see you
 #### Languages - Proficient
 C++, Java, Python, SQL, Bash, HTML, CSS
 [![](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=4EAA25)]()
-[![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=HTML&logoColor=fc9003)]()
-[![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS-bash&logoColor=0380fc)]()
+[![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html&logoColor=fc9003)]()
+[![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css-bash&logoColor=0380fc)]()
+[![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=SQL&logoColor=03bafc)]()
 [![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Python&logoColor=03fc4e)]()
 [![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Java&logoColor=0398fc)]()
