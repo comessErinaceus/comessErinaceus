@@ -28,7 +28,16 @@ Welcome! Glad to see you
 IntelliJ, Visual Studio, VSCode
 
 #### Other Technologies
-- Confluence, Docker, K8S, GIT, JIRA, Ansible
+ Ansible
+
+[![](https://img.shields.io/badge/Confluence-03c2fc-Jira-blue?style=for-the-badge&logo=kubernetes&logoColor=black)]()
+[![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black)]()
+[![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=black)]()
+[![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
+[![](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=git&logoColor=black)]()
+
+
+
 
 - ## Features
 
@@ -36,6 +45,7 @@ IntelliJ, Visual Studio, VSCode
 
 
 <!--
+Light-blue: 03c2fc
 **comessErinaceus/comessErinaceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
