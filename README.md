@@ -12,9 +12,16 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/Java-grey?style=for-the-badge&logo=openjdk&logoColor=red)]()
 [![](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=0398fc)]()
 
+#### Cloud
+[![](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Azure-grey?style=for-the-badge&logo=azure&logoColor=light-blue)]()
+
+#### Database
+[![](https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
 
 #### Frameworks
-[![](https://img.shields.io/badge/SpringBoot-Spring-green?style=for-the-badge&logo=springboot&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/SpringBoot-grey?style=for-the-badge&logo=springboot&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Spring-grey?style=for-the-badge&logo=spring&logoColor=blue)]()
 [![](https://img.shields.io/badge/Django-grey?style=for-the-badge&logo=django&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/Asp.Net-grey?style=for-the-badge&logo=.net&logoColor=light-blue)]()
 
@@ -30,7 +37,7 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/VisualStudio-grey?style=for-the-badge&logo=visualstudio&logoColor=blue)]()
 [![](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=vscode&logoColor=blue)]()
 
-
+<!-- DB Tech, cloud-->
 
 #### Other Technologies
 
@@ -39,12 +46,6 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
 [![](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=black)]()
-
-
-
-
-- ## Features
-
 
 
 
