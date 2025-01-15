@@ -14,9 +14,9 @@ Welcome! Glad to see you
 
 
 #### Frameworks
-[![](https://img.shields.io/badge/SpringBoot-light-green?style=for-the-badge&logo=springboot&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/Django-light-green?style=for-the-badge&logo=django&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/Asp.Net-green?style=for-the-badge&logo=asp.net&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/SpringBoot-Spring-green?style=for-the-badge&logo=springboot&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Django-green?style=for-the-badge&logo=django&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Asp.Net-green?style=for-the-badge&logo=.net&logoColor=light-blue)]()
 
 #### OS
 [![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
