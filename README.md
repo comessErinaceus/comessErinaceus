@@ -9,7 +9,7 @@ C++, Java, Python, SQL, Bash, HTML, CSS
 [![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=03bafc)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=03bafc)]()
-[![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Python&logoColor=03fc4e)]()
+[![](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python3&logoColor=03fc4e)]()
 [![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=Java&logoColor=0398fc)]()
 
 #### Frameworks
