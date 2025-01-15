@@ -1,7 +1,14 @@
 Welcome! Glad to see you
 
-# Technology
+## Technology
+#### Languages - Proficient
+C++, Java, Python, SQL, Bash, HTML, CSS
 
+#### Frameworks
+
+
+#### Editors
+IntelliJ, Visual Studio, VSCode
 <!--
 **comessErinaceus/comessErinaceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
