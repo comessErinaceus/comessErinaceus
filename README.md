@@ -17,7 +17,9 @@ Welcome! Glad to see you
 
 #### OS
 Ubuntu, Windows 11/10/8, MacOS
-[![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=orange)]()
+[![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
+[![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows11&logoColor=light-blue)]()
+
 
 #### Editors
 IntelliJ, Visual Studio, VSCode
