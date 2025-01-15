@@ -17,9 +17,7 @@ IntelliJ, Visual Studio, VSCode
 
 - ## Features
 
-- ![Tile 1](https://via.placeholder.com/150) **Tile 1**: Description of feature 1
-- ![Tile 2](https://via.placeholder.com/150) **Tile 2**: Description of feature 2
-- ![Tile 3](https://via.placeholder.com/150) **Tile 3**: Description of feature 3
+[![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
 
 
 <!--
