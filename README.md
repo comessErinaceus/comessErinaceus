@@ -5,7 +5,7 @@ Welcome! Glad to see you
 C++, Java, Python, SQL, Bash, HTML, CSS
 [![](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=cplusplus&logoColor=4EAA25)]()
 [![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=fc9003)]()
-[![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3-bash&logoColor=0380fc)]()
+[![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=css3-bash&logoColor=1572B6)]()
 [![](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql&logoColor=03bafc)]()
 [![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=postgresql&logoColor=03bafc)]()
