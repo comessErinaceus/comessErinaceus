@@ -21,11 +21,16 @@ Welcome! Glad to see you
 #### OS
 [![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/MacOS-black?style=for-the-badge&logo=macos&logoColor=blue)]()
+[![](https://img.shields.io/badge/MacOS?style=for-the-badge&logo=macos&logoColor=blue)]()
 
 
 #### Editors
-IntelliJ, Visual Studio, VSCode
+
+[![](https://img.shields.io/badge/IntelliJ?style=for-the-badge&logo=intellij&logoColor=blue)]()
+[![](https://img.shields.io/badge/Visual_Studio?style=for-the-badge&logo=visualstudio&logoColor=blue)]()
+[![](https://img.shields.io/badge/VSCode?style=for-the-badge&logo=vscode&logoColor=blue)]()
+
+
 
 #### Other Technologies
 
