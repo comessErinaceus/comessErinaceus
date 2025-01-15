@@ -3,6 +3,11 @@ Welcome! Glad to see you
 ## Technical Proficiencies
 #### Languages - Proficient
 C++, Java, Python, SQL, Bash, HTML, CSS
+[![](https://img.shields.io/badge/C++-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
+[![](https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
+[![](https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
+[![](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=gnu-bash&logoColor=03bafc)]()
+[![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
 
 #### Frameworks
 
@@ -17,7 +22,7 @@ IntelliJ, Visual Studio, VSCode
 
 - ## Features
 
-[![](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=4EAA25)]()
+
 
 
 <!--
