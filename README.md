@@ -29,7 +29,7 @@ IntelliJ, Visual Studio, VSCode
 
 #### Other Technologies
 
-[![](https://img.shields.io/badge/Confluence-03c2fc-Jira-blue?style=for-the-badge&logo=kubernetes&logoColor=black)]()
+[![](https://img.shields.io/badge/Confluence-Jira-blue?style=for-the-badge&logo=confluence&logoColor=black)]()
 [![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=grey)]()
 [![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
