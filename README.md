@@ -9,6 +9,10 @@ C++, Java, Python, SQL, Bash, HTML, CSS
 
 #### Editors
 IntelliJ, Visual Studio, VSCode
+
+#### Other Technologies
+- Confluence, Docker, K8S, GIT, JIRA, Ansible
+
 <!--
 **comessErinaceus/comessErinaceus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
