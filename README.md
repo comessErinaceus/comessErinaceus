@@ -13,9 +13,9 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/Bash-grey?style=for-the-badge&logo=gnu-bash&logoColor=0398fc)]()
 
 #### Language - dataformats
-[![](https://img.shields.io/badge/XML?style=for-the-badge&logo=xmlt&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/XML-grey?style=for-the-badge&logo=xmlt&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/Json-grey?style=for-the-badge&logo=json&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/Yaml?style=for-the-badge&logo=yaml&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Yaml-grey?style=for-the-badge&logo=yaml&logoColor=light-blue)]()
 
 #### Cloud
 [![](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
@@ -32,13 +32,10 @@ Welcome! Glad to see you
 [![](https://img.shields.io/badge/Asp.Net-grey?style=for-the-badge&logo=.net&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/Bootstrap-grey?style=for-the-badge&logo=bootstrap&logoColor=light-blue)]()
 
-
-
 #### OS
 [![](https://img.shields.io/badge/Ubuntu-orange?style=for-the-badge&logo=ubuntu&logoColor=white)]()
 [![](https://img.shields.io/badge/Windows-blue?style=for-the-badge&logo=windows&logoColor=light-blue)]()
 [![](https://img.shields.io/badge/MacOS?style=for-the-badge&logo=macos&logoColor=blue)]()
-
 
 #### Editors
 
