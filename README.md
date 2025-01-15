@@ -28,13 +28,12 @@ Welcome! Glad to see you
 IntelliJ, Visual Studio, VSCode
 
 #### Other Technologies
- Ansible
 
 [![](https://img.shields.io/badge/Confluence-03c2fc-Jira-blue?style=for-the-badge&logo=kubernetes&logoColor=black)]()
-[![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=black)]()
-[![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=black)]()
+[![](https://img.shields.io/badge/docker-blue?style=for-the-badge&logo=docker&logoColor=grey)]()
+[![](https://img.shields.io/badge/K8S-blue?style=for-the-badge&logo=kubernetes&logoColor=white)]()
 [![](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git&logoColor=black)]()
-[![](https://img.shields.io/badge/Ansible-white?style=for-the-badge&logo=git&logoColor=black)]()
+[![](https://img.shields.io/badge/Ansible-red?style=for-the-badge&logo=ansible&logoColor=black)]()
 
 
 
