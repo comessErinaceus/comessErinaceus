@@ -58,6 +58,9 @@
 
 [![](https://img.shields.io/badge/Tomcat-grey?style=for-the-badge&logo=ApacheTomcat&logoColor=light-blue)]()
 
+[![](https://img.shields.io/badge/Maven-grey?style=for-the-badge&logo=maven&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Gradle-grey?style=for-the-badge&logo=gradle&logoColor=light-blue)]()
+
 #### Game Development programming
 [![](https://img.shields.io/badge/Godot-gdscript?style=for-the-badge&logo=godotengine&logoColor=light-blue)]()
 
