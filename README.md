@@ -44,6 +44,7 @@
 [![](https://img.shields.io/badge/IntelliJ-grey?style=for-the-badge&logo=intellij&logoColor=blue)]()
 [![](https://img.shields.io/badge/VisualStudio-grey?style=for-the-badge&logo=visualstudio&logoColor=blue)]()
 [![](https://img.shields.io/badge/VSCode-grey?style=for-the-badge&logo=vscode&logoColor=blue)]()
+[![](https://img.shields.io/badge/Eclipse-grey?style=for-the-badge&logo=eclipse&logoColor=blue)]()
 
 <!-- DB Tech, cloud-->
 
