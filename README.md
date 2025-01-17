@@ -25,6 +25,7 @@
 
 #### Database
 [![](https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/H2-grey?style=for-the-badge&logo=h2&logoColor=light-blue)]()
 
 
 #### Frameworks
