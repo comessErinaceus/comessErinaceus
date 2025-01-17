@@ -21,7 +21,7 @@
 
 #### Cloud
 [![](https://img.shields.io/badge/AWS-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
-[![](https://img.shields.io/badge/AzureDevops-grey?style=for-the-badge&logo=azure&logoColor=light-blue)]()
+[![](https://img.shields.io/badge/Azure_Devops-grey?style=for-the-badge&logo=azure&logoColor=light-blue)]()
 
 #### Database
 [![](https://img.shields.io/badge/JDBC-grey?style=for-the-badge&logo=aws&logoColor=light-blue)]()
